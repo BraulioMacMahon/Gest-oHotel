@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/driver/postgresql-42.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/mssql-jdbc-8.2.0.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
